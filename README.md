@@ -5,4 +5,4 @@ Desafio de Projetos - Análise de Dados Python e Pandas (Bootcamp UNIMED - Ciên
 
 Link do desafio:
 
-[Desafio](https://github.com/caiocarvalhodev/BOOTCAMP-GERACAO-TECH-UNIMED-BH/blob/main/Desafios%20Iniciais%20-%20UNIMED%20BH/torres.py)
+[Desafio](https://github.com/caiocarvalhodev/desafio-analise-de-dados-python-pandas/blob/main/Balan%C3%A7o_Correspondente.ipynb)
